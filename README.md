@@ -9,5 +9,5 @@ O projeto ainda está sendo feito, porém, foi entregue até o momento apenas o 
 * DATA BINDING
 
 ## Imagens:
-![image(]https://github.com/helbamonteiro/Estoque/blob/master/FormEstoque.jpg)
+![image](https://github.com/helbamonteiro/Estoque/blob/master/FormEstoque.jpg)
 
